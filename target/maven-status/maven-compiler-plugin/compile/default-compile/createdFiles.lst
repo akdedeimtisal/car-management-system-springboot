@@ -1,0 +1,15 @@
+com\carfullstack\carfullstack\domain\AccountCredentials.class
+com\carfullstack\carfullstack\domain\CarRepository.class
+com\carfullstack\carfullstack\CarfullstackApplication.class
+com\carfullstack\carfullstack\domain\User.class
+com\carfullstack\carfullstack\domain\OwnerRepository.class
+com\carfullstack\carfullstack\SecurityConfig.class
+com\carfullstack\carfullstack\service\JwtService.class
+com\carfullstack\carfullstack\service\UserDetailsServiceImpl.class
+com\carfullstack\carfullstack\domain\Owner.class
+com\carfullstack\carfullstack\AuthenticationFilter.class
+com\carfullstack\carfullstack\AuthEntryPoint.class
+com\carfullstack\carfullstack\domain\Car.class
+com\carfullstack\carfullstack\domain\UserRepository.class
+com\carfullstack\carfullstack\web\CarController.class
+com\carfullstack\carfullstack\web\LoginController.class
